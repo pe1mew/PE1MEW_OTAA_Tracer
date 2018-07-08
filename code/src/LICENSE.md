@@ -1,17 +1,6 @@
-# PE1MEW Arduino Rotor Controller
-A rotor controller for any rotor without direction indication.
-
-![Example of the PE1MEW Rotor Controller](photos/rotorcontrollerfrontview.jpg
- "Example of the PE1MEW Rotor Controller")
-
-
-### Disclaimer
-The PE1MEW code is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
 ### License
 Following licenses apply:
+
 ## PE1MEW code
 The code added to the single channel gateway by PE1MEW is free software:
 You can redistribute to it and/or modify it under the terms of a Creative Commons
